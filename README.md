@@ -1,3 +1,5 @@
+> ⚠️ **Note**: This project is a **template** implementation of a Dispatcher-Performer model using UiPath's REFramework. It serves as a starting point and requires customization to match specific business systems, APIs, data formats, and error-handling needs.
+
 # 📦 Transaction Processor - Dispatcher (UiPath REFramework)
 
 This is the **Dispatcher component** of the Transaction Processor project built using UiPath's **Robotic Enterprise Framework (REFramework)**.
